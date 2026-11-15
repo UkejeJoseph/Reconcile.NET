@@ -1,3 +1,5 @@
+> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
+
 # Reconcile.NET
 
 Rule-based financial reconciliation engine for .NET. Match your internal ledger against processor settlement files, bank statements against internal books, invoices against payments. Zero external dependencies.
